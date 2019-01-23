@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-study-api" />
         <module name="spring-cloud-study-consumer-dept-1" />
+        <module name="spring-cloud-study-eureka1" />
         <module name="spring-cloud-study-provider-dept-1" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="spring-cloud-study" target="1.8" />
       <module name="spring-cloud-study-api" target="1.8" />
       <module name="spring-cloud-study-consumer-dept-1" target="1.8" />
+      <module name="spring-cloud-study-eureka1" target="1.8" />
       <module name="spring-cloud-study-provider-dept-1" target="1.8" />
     </bytecodeTargetLevel>
   </component>

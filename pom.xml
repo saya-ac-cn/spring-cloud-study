@@ -68,10 +68,32 @@
         </dependencies>
     </dependencyManagement>
 
+    <build>
+        <finalName>spring-cloud-study</finalName>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+            </resource>
+        </resources>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+                <configuration>
+                    <delimiters>
+                        <delimit>$</delimit>
+                    </delimiters>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
     <modules>
         <module>spring-cloud-study-api</module>
         <module>spring-cloud-study-provider-dept-1</module>
         <module>spring-cloud-study-consumer-dept-1</module>
+        <module>spring-cloud-study-eureka1</module>
     </modules>
 
 </project>
