@@ -9,6 +9,8 @@
         <module name="spring-cloud-study-api" />
         <module name="spring-cloud-study-consumer-dept-1" />
         <module name="spring-cloud-study-eureka1" />
+        <module name="spring-cloud-study-eureka2" />
+        <module name="spring-cloud-study-eureka3" />
         <module name="spring-cloud-study-provider-dept-1" />
       </profile>
     </annotationProcessing>
@@ -17,6 +19,8 @@
       <module name="spring-cloud-study-api" target="1.8" />
       <module name="spring-cloud-study-consumer-dept-1" target="1.8" />
       <module name="spring-cloud-study-eureka1" target="1.8" />
+      <module name="spring-cloud-study-eureka2" target="1.8" />
+      <module name="spring-cloud-study-eureka3" target="1.8" />
       <module name="spring-cloud-study-provider-dept-1" target="1.8" />
     </bytecodeTargetLevel>
   </component>

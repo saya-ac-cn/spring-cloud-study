@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/spring-cloud-study-api/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-eureka2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-eureka3/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-api/spring-cloud-study-api.iml" filepath="$PROJECT_DIR$/spring-cloud-study-api/spring-cloud-study-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/spring-cloud-study-consumer-dept-1.iml" filepath="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/spring-cloud-study-consumer-dept-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-eureka1/spring-cloud-study-eureka1.iml" filepath="$PROJECT_DIR$/spring-cloud-study-eureka1/spring-cloud-study-eureka1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-eureka2/spring-cloud-study-eureka2.iml" filepath="$PROJECT_DIR$/spring-cloud-study-eureka2/spring-cloud-study-eureka2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-eureka3/spring-cloud-study-eureka3.iml" filepath="$PROJECT_DIR$/spring-cloud-study-eureka3/spring-cloud-study-eureka3.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/spring-cloud-study-provider-dept-1.iml" filepath="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/spring-cloud-study-provider-dept-1.iml" />
     </modules>
   </component>
