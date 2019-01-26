@@ -92,6 +92,7 @@
     <modules>
         <module>spring-cloud-study-api</module>
         <module>spring-cloud-study-provider-dept-1</module>
+        <module>spring-cloud-study-provider-dept-2</module>
         <module>spring-cloud-study-consumer-dept-1</module>
         <module>spring-cloud-study-eureka1</module>
         <module>spring-cloud-study-eureka2</module>

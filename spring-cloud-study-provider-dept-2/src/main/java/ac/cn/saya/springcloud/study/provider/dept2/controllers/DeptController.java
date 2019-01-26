@@ -1,11 +1,12 @@
-package ac.cn.saya.springcloud.study.provider.dept1.controllers;
+package ac.cn.saya.springcloud.study.provider.dept2.controllers;
 
 import ac.cn.saya.springcloud.study.api.entity.DeptEntity;
-import ac.cn.saya.springcloud.study.provider.dept1.service.impl.DeptServiceImpl;
+import ac.cn.saya.springcloud.study.provider.dept2.service.impl.DeptServiceImpl;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.*;
+
 import java.util.List;
 
 /**
@@ -28,19 +29,19 @@ public class DeptController {
 
     @PostMapping(value = "/dept/add")
     public Integer add(@RequestBody DeptEntity dept){
-        logger.info("提供者1执行部门创建");
+        logger.info("提供者2执行部门创建");
         return deptServiceImpl.add(dept);
     }
 
     @GetMapping(value = "/dept/get/{id}")
     public DeptEntity get(@PathVariable("id") Long id) {
-        logger.info("提供者1执行部门查询："+id);
+        logger.info("提供者2执行部门查询："+id);
         return deptServiceImpl.get(id);
     }
 
     @GetMapping(value = "/dept/list")
     public List<DeptEntity> list() {
-        logger.info("提供者1执行部门列表展示");
+        logger.info("提供者2执行部门列表展示");
         return deptServiceImpl.list();
     }
 

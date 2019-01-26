@@ -3,8 +3,10 @@ package ac.cn.saya.springcloud.study.consumer.dept1;
 import org.apache.log4j.Logger;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 @SpringBootApplication
+@EnableEurekaClient
 public class SpringCloudStudyConsumerDept1Application {
 
 	private static final Logger logger = Logger.getLogger(SpringCloudStudyConsumerDept1Application.class);

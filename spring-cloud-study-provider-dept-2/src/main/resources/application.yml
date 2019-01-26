@@ -1,5 +1,5 @@
 server:
-  port: 8001
+  port: 8002
 
 mybatis:
   config-location: classpath:mybatis/mybatis.cfg.xml        # mybatis配置文件所在路径
@@ -28,11 +28,11 @@ eureka:
     service-url:
       defaultZone: http://eureka1.com:7001/eureka/,http://eureka2.com:7002/eureka/,http://eureka3.com:7003/eureka/
   instance:
-    instance-id: spring-cloud-study-provider-dept1:8001
+    instance-id: spring-cloud-study-provider-dept2:8002
     prefer-ip-address: true  #访问路径可以显示IP地址
 
 info:
-  app.name: spring-cloud-study-provider-dept-1
+  app.name: spring-cloud-study-provider-dept-2
   company.name: saya.ac.cn
   build.artifactId: $project.artifactId$
   build.version: $project.version$
