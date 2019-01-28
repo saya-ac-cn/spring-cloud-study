@@ -39,6 +39,7 @@ public class DeptController {
     }
 
     @GetMapping(value = "/dept/get/{id}")
+    @HystrixCommand(fallbackMethod = "processHystrix_Get")
     public DeptEntity get(@PathVariable("id") Long id) {
         logger.info("hystrix提供者执行部门查询："+id);
         DeptEntity entity = deptServiceImpl.get(id);

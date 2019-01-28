@@ -95,6 +95,7 @@
         <module>spring-cloud-study-provider-dept-2</module>
         <module>spring-cloud-study-consumer-dept-1</module>
         <module>spring-cloud-study-consumer-dept-feign</module>
+        <module>spring-cloud-study-hystrix-dashboard</module>
         <module>spring-cloud-study-eureka1</module>
         <module>spring-cloud-study-eureka2</module>
         <module>spring-cloud-study-eureka3</module>
