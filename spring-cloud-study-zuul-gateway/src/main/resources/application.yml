@@ -1,0 +1,29 @@
+server: 
+  port: 9527
+ 
+spring: 
+  application:
+    name: spring-cloud-study-zuul-gateway
+ 
+eureka: 
+  client: 
+    service-url: 
+      defaultZone: http://eureka1.com:7001/eureka/,http://eureka2.com:7002/eureka/,http://eureka3.com:7003/eureka/
+  instance:
+    instance-id: gateway-9527.com
+    prefer-ip-address: true
+
+zuul:
+ prefix: /api # 统一的对外访问前缀
+ ignored-services: "*"  #屏蔽对外所有的微服务
+#ignored-services: spring-cloud-study-provider-dept #屏蔽对外的单个微服务
+ routes:
+   mydept.serviceId: spring-cloud-study-provider-dept #要替换的路径-before
+   mydept.path: /os/**  #要替换的路径-end
+
+info:
+  app.name: spring-cloud-study-zuul-gateway
+  company.name: saya.ac.cn
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+
