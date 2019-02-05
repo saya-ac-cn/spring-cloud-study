@@ -1,29 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11e94cde-56fc-4c11-95f2-1b92efda9d12" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/java/ac/cn/saya/springcloud/study/provider/dept2/controllers/DeptController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/java/ac/cn/saya/springcloud/study/provider/dept2/dao/DeptDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/java/ac/cn/saya/springcloud/study/provider/dept2/service/DeptService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/java/ac/cn/saya/springcloud/study/provider/dept2/service/impl/DeptServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/resources/log4j.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/resources/mybatis/mapper/DeptMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/resources/mybatis/mybatis.cfg.xml" />
+    <list default="true" id="11e94cde-56fc-4c11-95f2-1b92efda9d12" name="Default" comment="增加zuul-gateway">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_53.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_6_0_201612231935_r.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_dashboard_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zuul_1_3_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-study-config/.mvn/wrapper/maven-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-study-config/.mvn/wrapper/maven-wrapper.properties" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/pom.xml" afterPath="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/dept1/SpringCloudStudyConsumerDept1Application.java" afterPath="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/dept1/SpringCloudStudyConsumerDept1Application.java" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/dept1/config/ConfigBean.java" afterPath="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/dept1/config/ConfigBean.java" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/dept1/controllers/OAController.java" afterPath="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/dept1/controllers/OAController.java" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/resources/application.yml" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/controllers/DeptController.java" afterPath="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/controllers/DeptController.java" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-study-api/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/spring-cloud-study-api/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-study-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/spring-cloud-study-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-study-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/spring-cloud-study-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,6 +47,14 @@
     <ignored path="$PROJECT_DIR$/spring-cloud-study-eureka3/target/" />
     <ignored path="$PROJECT_DIR$/spring-cloud-study-eureka2/target/" />
     <ignored path="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-study-consumer-dept-feign/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-study-provider-dept-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-study-hystrix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-study-zuul-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-study-config/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-study-client-config/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-study-config-eureka-client/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-study-dept-client-config/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,17 +62,61 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DeptController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/java/ac/cn/saya/springcloud/study/dept/clientconfig/controllers/DeptController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="114">
-                <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              <first_editor relative-caret-position="38">
+                <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringCloudStudyDeptClientConfigApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/java/ac/cn/saya/springcloud/study/dept/clientconfig/SpringCloudStudyDeptClientConfigApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="47" lean-forward="false" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,38 +148,56 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-cloud-study-api/src/main/java/ac/cn/saya/springcloud/study/api/entity/DeptEntity.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-api/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/service/DeptService.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/dao/DeptDao.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/service/impl/DeptServiceImpl.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/resources/mybatis/mybatis.cfg.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/resources/mybatis/mapper/DeptMapper.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-eureka1/src/main/java/ac/cn/saya/springcloud/study/eureka1/SpringCloudStudyEureka1Application.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-eureka1/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/SpringCloudStudyProviderDept1Application.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-eureka2/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-eureka3/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-eureka2/src/main/java/ac/cn/saya/springcloud/study/eureka2/SpringCloudStudyEureka2Application.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-eureka3/src/main/java/ac/cn/saya/springcloud/study/eureka3/SpringCloudStudyEureka3Application.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-eureka1/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-eureka2/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-eureka3/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/dept1/SpringCloudStudyConsumerDept1Application.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/dept1/config/ConfigBean.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/java/ac/cn/saya/springcloud/study/provider/dept2/SpringCloudStudyProviderDept2Application.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/resources/mybatis/mapper/DeptMapper.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/java/ac/cn/saya/springcloud/study/provider/dept2/service/impl/DeptServiceImpl.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/controllers/DeptController.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/java/ac/cn/saya/springcloud/study/provider/dept2/controllers/DeptController.java" />
         <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/dept1/SpringCloudStudyConsumerDept1Application.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/myrule/RandomRule.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/myrule/MySelfRule.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-api/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-consumer-dept-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-consumer-dept-feign/src/main/java/ac/cn/saya/springcloud/study/consumer/dept/feign/SpringCloudStudyConsumerDeptFeignApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-consumer-dept-feign/src/main/java/ac/cn/saya/springcloud/study/consumer/dept/feign/controllers/OAController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-hystrix/src/main/java/ac/cn/saya/springcloud/study/provider/dept/hystrix/dao/DeptDao.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-hystrix/src/main/java/ac/cn/saya/springcloud/study/provider/dept/hystrix/service/impl/DeptServiceImpl.java" />
         <option value="$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/dept1/controllers/OAController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-api/src/main/java/ac/cn/saya/springcloud/study/api/entity/DeptEntity.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-hystrix/src/main/resources/mybatis/mapper/DeptMapper.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-hystrix/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-api/src/main/java/ac/cn/saya/springcloud/study/api/service/DeptClientServiceFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-api/src/main/java/ac/cn/saya/springcloud/study/api/service/DeptClientService.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-consumer-dept-feign/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-hystrix-dashboard/src/main/java/ac/cn/saya/springcloud/study/hystrix/dashboard/SpringCloudStudyHystrixDashboardApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-hystrix/src/main/java/ac/cn/saya/springcloud/study/provider/dept/hystrix/SpringCloudStudyProviderDeptHystrixApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-hystrix/src/main/java/ac/cn/saya/springcloud/study/provider/dept/hystrix/controllers/DeptController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-zuul-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-zuul-gateway/src/main/java/ac/cn/saya/springcloud/study/zuul/gateway/SpringCloudStudyZuulGatewayApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-zuul-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-study-config/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-config/src/main/java/ac/cn/saya/springcloud/study/config/SpringCloudStudyConfigApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-config/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-study-config/spring-cloud-client-config.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-client-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-client-config/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-client-config/src/main/java/ac/cn/saya/springcloud/study/clientconfig/SpringCloudStudyClientConfigApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-client-config/src/main/java/ac/cn/saya/springcloud/study/clientconfig/rest/ConfigClientRest.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-client-config/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-study-config/spring-cloud-eureka-client-config.yml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-study-config/spring-cloud-dept-client-config.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-config-eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-config-eureka-client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-config-eureka-client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-config-eureka-client/src/main/java/ac/cn/saya/springcloud/study/config/eureka/client/SpringCloudStudyConfigEurekaClientApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-dept-client-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/java/ac/cn/saya/springcloud/study/dept/clientconfig/dao/DeptDao.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/java/ac/cn/saya/springcloud/study/dept/clientconfig/service/impl/DeptServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/java/ac/cn/saya/springcloud/study/dept/clientconfig/controllers/DeptController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/resources/mybatis/mapper/DeptMapper.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/java/ac/cn/saya/springcloud/study/dept/clientconfig/SpringCloudStudyDeptClientConfigApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -141,8 +224,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="192" />
-    <option name="y" value="-23" />
+    <option name="x" value="102" />
+    <option name="y" value="-24" />
     <option name="width" value="1382" />
     <option name="height" value="700" />
   </component>
@@ -178,6 +261,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,14 +275,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.JRebelSettingsComponent" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.41149426" />
@@ -211,12 +294,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-study-eureka1" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ac.cn.saya.springcloud.study.consumer.dept.feign.controllers" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\project\java\spring-cloud-study\spring-cloud-study-provider-dept-2\src\main\java\ac\cn\saya\springcloud\study\provider\dept2" />
-      <recent name="E:\project\java\spring-cloud-study\spring-cloud-study-provider-dept-2\src\main\resources" />
-      <recent name="E:\project\java\spring-cloud-study\spring-cloud-study-eureka3\src\main\resources" />
-      <recent name="E:\project\java\spring-cloud-study\spring-cloud-study-eureka2\src\main\resources" />
-      <recent name="E:\project\java\spring-cloud-study\spring-cloud-study-consumer-dept-1\src\main\resources" />
+      <recent name="E:\project\java\spring-cloud-study\spring-cloud-study-dept-client-config\src\main\resources" />
+      <recent name="E:\project\java\spring-cloud-study\spring-cloud-study-dept-client-config\src\main\java\ac\cn\saya\springcloud\study\dept\clientconfig" />
+      <recent name="E:\project\java\spring-cloud-study\spring-cloud-study-config-eureka-client\src\main\resources" />
+      <recent name="E:\project\java\spring-cloud-study\spring-cloud-study-client-config\src\main\java\ac\cn\saya\springcloud\study\clientconfig\rest" />
+      <recent name="E:\project\java\spring-cloud-study\spring-cloud-study-client-config\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -231,15 +317,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringCloudStudyConsumerDept1Application">
-    <configuration name="SpringCloudStudyEureka1Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.SpringCloudStudyDeptClientConfigApplication">
+    <configuration name="SpringCloudStudyClientConfigApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ac.cn.saya.springcloud.study.eureka1.*" />
+          <option name="PATTERN" value="ac.cn.saya.springcloud.study.clientconfig.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ac.cn.saya.springcloud.study.eureka1.SpringCloudStudyEureka1Application" />
+      <option name="MAIN_CLASS_NAME" value="ac.cn.saya.springcloud.study.clientconfig.SpringCloudStudyClientConfigApplication" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -248,17 +334,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="spring-cloud-study-eureka1" />
+      <module name="spring-cloud-study-client-config" />
       <envs />
     </configuration>
-    <configuration name="SpringCloudStudyProviderDept1Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SpringCloudStudyConfigApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ac.cn.saya.springcloud.study.provider.dept1.*" />
+          <option name="PATTERN" value="ac.cn.saya.springcloud.study.config.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ac.cn.saya.springcloud.study.provider.dept1.SpringCloudStudyProviderDept1Application" />
+      <option name="MAIN_CLASS_NAME" value="ac.cn.saya.springcloud.study.config.SpringCloudStudyConfigApplication" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -267,7 +353,64 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="spring-cloud-study-provider-dept-1" />
+      <module name="spring-cloud-study-config" />
+      <envs />
+    </configuration>
+    <configuration name="SpringCloudStudyConfigEurekaClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ac.cn.saya.springcloud.study.config.eureka.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ac.cn.saya.springcloud.study.config.eureka.client.SpringCloudStudyConfigEurekaClientApplication" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="spring-cloud-study-config-eureka-client" />
+      <envs />
+    </configuration>
+    <configuration name="SpringCloudStudyDeptClientConfigApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ac.cn.saya.springcloud.study.dept.clientconfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ac.cn.saya.springcloud.study.dept.clientconfig.SpringCloudStudyDeptClientConfigApplication" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="spring-cloud-study-dept-client-config" />
+      <envs />
+    </configuration>
+    <configuration name="SpringCloudStudyHystrixDashboardApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ac.cn.saya.springcloud.study.hystrix.dashboard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ac.cn.saya.springcloud.study.hystrix.dashboard.SpringCloudStudyHystrixDashboardApplication" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="spring-cloud-study-hystrix-dashboard" />
       <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -296,6 +439,12 @@
       <module name="spring-cloud-study-consumer-dept-1" />
       <envs />
     </configuration>
+    <configuration name="SpringCloudStudyConsumerDeptFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ac.cn.saya.springcloud.study.consumer.dept.feign.SpringCloudStudyConsumerDeptFeignApplication" />
+      <module name="spring-cloud-study-consumer-dept-feign" />
+      <envs />
+    </configuration>
     <configuration name="SpringCloudStudyEureka1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ac.cn.saya.springcloud.study.eureka1.SpringCloudStudyEureka1Application" />
@@ -314,9 +463,16 @@
       <module name="spring-cloud-study-eureka3" />
       <envs />
     </configuration>
-    <configuration name="SpringCloudStudyProviderDept1Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="SpringCloudStudyHystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ac.cn.saya.springcloud.study.hystrix.dashboard.SpringCloudStudyHystrixDashboardApplication" />
+      <module name="spring-cloud-study-hystrix-dashboard" />
+      <envs />
+    </configuration>
+    <configuration name="SpringCloudStudyProviderDept1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ac.cn.saya.springcloud.study.provider.dept1.SpringCloudStudyProviderDept1Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <module name="spring-cloud-study-provider-dept-1" />
       <envs />
     </configuration>
@@ -324,6 +480,18 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ac.cn.saya.springcloud.study.provider.dept2.SpringCloudStudyProviderDept2Application" />
       <module name="spring-cloud-study-provider-dept-2" />
+      <envs />
+    </configuration>
+    <configuration name="SpringCloudStudyProviderDeptHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ac.cn.saya.springcloud.study.provider.dept.hystrix.SpringCloudStudyProviderDeptHystrixApplication" />
+      <module name="spring-cloud-study-provider-dept-hystrix" />
+      <envs />
+    </configuration>
+    <configuration name="SpringCloudStudyZuulGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ac.cn.saya.springcloud.study.zuul.gateway.SpringCloudStudyZuulGatewayApplication" />
+      <module name="spring-cloud-study-zuul-gateway" />
       <envs />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -386,20 +554,30 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <list size="8">
-      <item index="0" class="java.lang.String" itemvalue="Spring Boot.SpringCloudStudyProviderDept1Application (1)" />
+    <list size="15">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.SpringCloudStudyProviderDept1Application" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.SpringCloudStudyConsumerDept1Application" />
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.SpringCloudStudyEureka1Application" />
       <item index="3" class="java.lang.String" itemvalue="Spring Boot.SpringCloudStudyEureka3Application" />
       <item index="4" class="java.lang.String" itemvalue="Spring Boot.SpringCloudStudyEureka2Application" />
       <item index="5" class="java.lang.String" itemvalue="Spring Boot.SpringCloudStudyProviderDept2Application" />
-      <item index="6" class="java.lang.String" itemvalue="Application.SpringCloudStudyProviderDept1Application" />
-      <item index="7" class="java.lang.String" itemvalue="Application.SpringCloudStudyEureka1Application" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.SpringCloudStudyConsumerDeptFeignApplication" />
+      <item index="7" class="java.lang.String" itemvalue="Spring Boot.SpringCloudStudyProviderDeptHystrixApplication" />
+      <item index="8" class="java.lang.String" itemvalue="Spring Boot.SpringCloudStudyHystrixDashboardApplication" />
+      <item index="9" class="java.lang.String" itemvalue="Spring Boot.SpringCloudStudyZuulGatewayApplication" />
+      <item index="10" class="java.lang.String" itemvalue="Application.SpringCloudStudyHystrixDashboardApplication" />
+      <item index="11" class="java.lang.String" itemvalue="Application.SpringCloudStudyConfigApplication" />
+      <item index="12" class="java.lang.String" itemvalue="Application.SpringCloudStudyClientConfigApplication" />
+      <item index="13" class="java.lang.String" itemvalue="Application.SpringCloudStudyConfigEurekaClientApplication" />
+      <item index="14" class="java.lang.String" itemvalue="Application.SpringCloudStudyDeptClientConfigApplication" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.SpringCloudStudyProviderDept1Application" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SpringCloudStudyEureka1Application" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.SpringCloudStudyDeptClientConfigApplication" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SpringCloudStudyConfigEurekaClientApplication" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SpringCloudStudyConfigApplication" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SpringCloudStudyClientConfigApplication" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SpringCloudStudyHystrixDashboardApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -426,7 +604,12 @@
       <workItem from="1548247363709" duration="1386000" />
       <workItem from="1548249078401" duration="4264000" />
       <workItem from="1548334360595" duration="2568000" />
-      <workItem from="1548507851052" duration="5227000" />
+      <workItem from="1548507851052" duration="5370000" />
+      <workItem from="1548568705198" duration="6024000" />
+      <workItem from="1548578071878" duration="3646000" />
+      <workItem from="1548680707592" duration="8167000" />
+      <workItem from="1548768039291" duration="3623000" />
+      <workItem from="1549332630070" duration="9538000" />
     </task>
     <task id="LOCAL-00001" summary="完成第一个版本">
       <created>1548167562638</created>
@@ -449,42 +632,94 @@
       <option name="project" value="LOCAL" />
       <updated>1548338645386</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="完成Ribbon集群配置，实现负载均衡">
+      <created>1548514286235</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548514286235</updated>
+    </task>
+    <task id="LOCAL-00005" summary="完成Ribbon自定义负载均衡算法，完成Feign客户端负载均衡，完成Hystrix熔断器器服务降级">
+      <created>1548582471622</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548582471622</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改readme文件说明">
+      <created>1548582764246</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1548582764246</updated>
+    </task>
+    <task id="LOCAL-00007" summary="增加Hystrix Dashboard">
+      <created>1548689338102</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1548689338102</updated>
+    </task>
+    <task id="LOCAL-00008" summary="增加zuul-gateway">
+      <created>1548771706841</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1548771706841</updated>
+    </task>
+    <task id="LOCAL-00009" summary="增加spring-config配置模式">
+      <created>1549362960987</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1549362960987</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25058000" />
+    <option name="totallyTimeSpent" value="56199000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35283688" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32743362" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32743362" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32072368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34795764" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25328946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31543118" sideWeight="0.49100256" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2118003" sideWeight="0.50899744" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -493,7 +728,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,384 +740,222 @@
     <MESSAGE value="完成第一个版本" />
     <MESSAGE value="添加eureka服务注册中心" />
     <MESSAGE value="完成Eureka集群配置，实现高可用" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成Eureka集群配置，实现高可用" />
+    <MESSAGE value="完成Ribbon集群配置，实现负载均衡" />
+    <MESSAGE value="完成Ribbon自定义负载均衡算法，完成Feign客户端负载均衡，完成Hystrix熔断器器服务降级" />
+    <MESSAGE value="修改readme文件说明" />
+    <MESSAGE value="增加Hystrix Dashboard" />
+    <MESSAGE value="增加zuul-gateway" />
+    <MESSAGE value="增加spring-config配置模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加spring-config配置模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/dept1/controllers/OAController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1767">
-          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+        <state relative-caret-position="508">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-2/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2014">
-          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/SpringCloudStudyProviderDept1Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" column="58" lean-forward="false" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        <state relative-caret-position="1843">
+          <caret line="97" column="12" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="97" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-api/src/main/java/ac/cn/saya/springcloud/study/api/entity/DeptEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="41" column="27" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/service/DeptService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/service/impl/DeptServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/resources/application1.yml" />
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/dao/DeptDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/resources/mybatis/mybatis.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/resources/mybatis/mapper/DeptMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/ac.cn.saya:spring-cloud-study-provider-dept-1:0.0.1-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>ac.cn.saya:spring-cloud-study-provider-dept-1:0.0.1-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">ac.cn.saya:spring-cloud-study-provider-dept-1:0.0.1-SNAPSHOT</node>
-            <node x="" y="">ac.cn.saya:spring-cloud-study-api:jar:1.0-SNAPSHOT</node>
-            <node x="" y="">ac.cn.saya:spring-cloud-study-api:jar:1.0-SNAPSHOT/org.projectlombok:lombok:jar:1.16.18</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:1.5.9.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.9.RELEASE/org.yaml:snakeyaml:jar:1.17</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-actuator:jar:1.5.9.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-actuator:jar:1.5.9.RELEASE/org.springframework:spring-context:jar:4.3.13.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:1.2.2.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:1.2.2.RELEASE/org.springframework.cloud:spring-cloud-context:jar:1.2.2.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:1.2.2.RELEASE/org.springframework.cloud:spring-cloud-context:jar:1.2.2.RELEASE/org.springframework.security:spring-security-crypto:jar:4.2.3.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:1.2.2.RELEASE/org.springframework.cloud:spring-cloud-commons:jar:1.2.2.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:1.2.2.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.3.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:1.2.2.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.3.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.55</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:1.2.2.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.3.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.55/org.bouncycastle:bcprov-jdk15on:jar:1.55</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-core:jar:1.3.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-client:jar:1.3.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/org.codehaus.jettison:jettison:jar:1.3.7</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/org.codehaus.jettison:jettison:jar:1.3.7/stax:stax-api:jar:1.0.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/commons-jxpath:commons-jxpath:jar:1.3</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/joda-time:joda-time:jar:2.9.9</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/org.antlr:antlr-runtime:jar:3.4</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/org.antlr:antlr-runtime:jar:3.4/org.antlr:stringtemplate:jar:3.2.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/org.antlr:antlr-runtime:jar:3.4/antlr:antlr:jar:2.7.7</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/com.google.code.gson:gson:jar:2.8.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/org.apache.commons:commons-math:jar:2.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.netflix.archaius:archaius-core:jar:0.7.4</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/javax.ws.rs:jsr311-api:jar:1.1.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.netflix.servo:servo-core:jar:0.10.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.netflix.servo:servo-core:jar:0.10.1/com.netflix.servo:servo-internal:jar:0.10.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.sun.jersey:jersey-core:jar:1.19.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.sun.jersey:jersey-client:jar:1.19.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.sun.jersey.contribs:jersey-apache-client4:jar:1.19.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/org.apache.httpcomponents:httpclient:jar:4.5.3</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/org.apache.httpcomponents:httpclient:jar:4.5.3/org.apache.httpcomponents:httpcore:jar:4.4.8</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/org.apache.httpcomponents:httpclient:jar:4.5.3/commons-codec:commons-codec:jar:1.10</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.google.inject:guice:jar:4.1.0</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.google.inject:guice:jar:4.1.0/javax.inject:javax.inject:jar:1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.google.inject:guice:jar:4.1.0/aopalliance:aopalliance:jar:1.0</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-client:jar:1.6.2/com.fasterxml.jackson.core:jackson-core:jar:2.8.10</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-core:jar:1.6.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-core:jar:1.6.2/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-core:jar:1.6.2/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1/javax.xml.stream:stax-api:jar:1.0-2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.eureka:eureka-core:jar:1.6.2/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1/org.codehaus.woodstox:stax2-api:jar:3.1.4</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-archaius:jar:1.3.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-archaius:jar:1.3.1.RELEASE/commons-configuration:commons-configuration:jar:1.8</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-archaius:jar:1.3.1.RELEASE/commons-configuration:commons-configuration:jar:1.8/commons-lang:commons-lang:jar:2.6</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-archaius:jar:1.3.1.RELEASE/com.google.guava:guava:jar:18.0</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.2/com.netflix.ribbon:ribbon-transport:jar:2.2.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.2/com.netflix.ribbon:ribbon-transport:jar:2.2.2/io.reactivex:rxnetty-contexts:jar:0.4.9</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.2/com.netflix.ribbon:ribbon-transport:jar:2.2.2/io.reactivex:rxnetty-servo:jar:0.4.9</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.2/com.netflix.hystrix:hystrix-core:jar:1.5.12</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.2/com.netflix.hystrix:hystrix-core:jar:1.5.12/org.hdrhistogram:HdrHistogram:jar:2.1.9</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.2/io.reactivex:rxnetty:jar:0.4.9</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.2/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-codec-http:jar:4.0.27.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.2/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-codec-http:jar:4.0.27.Final/io.netty:netty-codec:jar:4.0.27.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.2/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-codec-http:jar:4.0.27.Final/io.netty:netty-handler:jar:4.0.27.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.2/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.0.27.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.2/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.0.27.Final/io.netty:netty-common:jar:4.0.27.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.2/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.0.27.Final/io.netty:netty-buffer:jar:4.0.27.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.2/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.0.27.Final/io.netty:netty-transport:jar:4.0.27.Final</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon-core:jar:2.2.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.2.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.2.2/commons-collections:commons-collections:jar:3.2.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.2.2/com.netflix.netflix-commons:netflix-commons-util:jar:0.1.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.2.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.2.2/com.netflix.netflix-commons:netflix-statistics:jar:0.1.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.3.1.RELEASE/io.reactivex:rxjava:jar:1.1.10</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon-eureka:jar:2.2.2</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.netflix.ribbon:ribbon-eureka:jar:2.2.2/org.slf4j:slf4j-api:jar:1.7.25</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.9</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.9/xmlpull:xmlpull:jar:1.1.3.1</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka:jar:1.3.1.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.9/xpp3:xpp3_min:jar:1.1.4c</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:1.3.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:1.3.1.RELEASE/org.springframework.cloud:spring-cloud-config-client:jar:1.3.1.RELEASE</node>
-            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:1.3.1.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10</node>
-            <node x="" y="">junit:junit:jar:4.12</node>
-            <node x="" y="">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
-            <node x="" y="">mysql:mysql-connector-java:jar:5.0.4</node>
-            <node x="" y="">com.alibaba:druid:jar:1.0.31</node>
-            <node x="" y="">com.alibaba:druid:jar:1.0.31/com.alibaba:jconsole:jar:1.8.0</node>
-            <node x="" y="">com.alibaba:druid:jar:1.0.31/com.alibaba:tools:jar:1.8.0</node>
-            <node x="" y="">ch.qos.logback:logback-core:jar:1.2.3</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.23</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.23/org.apache.tomcat:tomcat-juli:jar:8.5.23</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.13.RELEASE</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.13.RELEASE/org.springframework:spring-tx:jar:4.3.13.RELEASE</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.0</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.mybatis:mybatis:jar:3.4.4</node>
-            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.mybatis:mybatis-spring:jar:1.3.1</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-continuation:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-http:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-util:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-servlets:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-io:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-xml:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-security:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty:jetty-webapp:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-servlet:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-security:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-server:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-common:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-common:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-api:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-client:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-client:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-client:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-servlet:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:websocket-server:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:websocket-servlet:jar:9.4.7.v20170914/javax.servlet:javax.servlet-api:jar:3.1.0</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-plus:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/javax.annotation:javax.annotation-api:jar:1.2</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.ow2.asm:asm:jar:5.1</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.ow2.asm:asm-commons:jar:5.1</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty:jetty-annotations:jar:9.4.7.v20170914/org.ow2.asm:asm-commons:jar:5.1/org.ow2.asm:asm-tree:jar:5.1</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/org.eclipse.jetty.websocket:javax-websocket-client-impl:jar:9.4.7.v20170914</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.eclipse.jetty.websocket:javax-websocket-server-impl:jar:9.4.7.v20170914/javax.websocket:javax.websocket-api:jar:1.0</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-jetty:jar:1.5.9.RELEASE/org.mortbay.jasper:apache-el:jar:8.0.33</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.23</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.23/org.apache.tomcat:tomcat-annotations-api:jar:8.5.23</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.23</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.9.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.23</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/org.jboss.logging:jboss-logging:jar:3.3.1.Final</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/com.fasterxml:classmate:jar:1.3.4</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-aop:jar:4.3.13.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-web:jar:4.3.13.RELEASE/org.springframework:spring-beans:jar:4.3.13.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-webmvc:jar:4.3.13.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.9.RELEASE/org.springframework:spring-webmvc:jar:4.3.13.RELEASE/org.springframework:spring-expression:jar:4.3.13.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.9.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.9.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1/org.ow2.asm:asm:jar:5.0.3</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.assertj:assertj-core:jar:2.6.0</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.mockito:mockito-core:jar:1.10.19</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-core:jar:4.3.13.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.9.RELEASE/org.springframework:spring-test:jar:4.3.13.RELEASE</node>
-            <node x="" y="">org.springframework:springloaded:jar:1.2.8.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot:jar:1.5.9.RELEASE</node>
-            <node x="" y="">org.springframework.boot:spring-boot-devtools:jar:1.5.9.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.9.RELEASE</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="3601.0" y="935.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-hystrix-dashboard/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/spring-cloud-study-consumer-dept-1.iml">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-eureka3/src/main/java/ac/cn/saya/springcloud/study/eureka3/SpringCloudStudyEureka3Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="65" column="18" lean-forward="false" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/test/java/ac/cn/saya/springcloud/study/consumer/dept1/SpringCloudStudyConsumerDept1ApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/test/java/ac/cn/saya/springcloud/study/provider/dept1/SpringCloudStudyProviderDept1ApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1767">
-          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2014">
-          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.0.RC3/spring-cloud-netflix-eureka-client-2.1.0.RC3.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="411" column="16" lean-forward="false" selection-start-line="411" selection-start-column="16" selection-end-line="411" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-eureka1/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="48" selection-end-column="19" />
+        <state relative-caret-position="278">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="30" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-eureka2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="48" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-eureka3/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-278">
-          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-eureka2/src/main/resources/application.yml">
+    <entry file="file://E:/资料/尚硅谷SpringCloud视频/微服务架构源码/microservicecloud/microservicecloud-consumer-hystrix-dashboard/src/main/java/com/atguigu/springcloud/DeptConsumer_DashBoard_App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/controllers/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-consumer-dept-feign/src/main/java/ac/cn/saya/springcloud/study/consumer/dept/feign/SpringCloudStudyConsumerDeptFeignApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-eureka3/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-api/src/main/java/ac/cn/saya/springcloud/study/api/service/DeptClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-api/src/main/java/ac/cn/saya/springcloud/study/api/service/DeptClientServiceFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-hystrix-dashboard/src/main/java/ac/cn/saya/springcloud/study/hystrix/dashboard/SpringCloudStudyHystrixDashboardApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-hystrix/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-hystrix-dashboard/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="n#exclusions#0;n#dependency#7;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-hystrix/src/main/java/ac/cn/saya/springcloud/study/provider/dept/hystrix/controllers/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="41" column="4" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-hystrix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="87" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-hystrix/src/main/java/ac/cn/saya/springcloud/study/provider/dept/hystrix/SpringCloudStudyProviderDeptHystrixApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="29" column="76" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="29" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-cloud-study-config/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="74" lean-forward="false" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-zuul-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-config/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-config/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-config/src/main/java/ac/cn/saya/springcloud/study/config/SpringCloudStudyConfigApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-zuul-gateway/src/main/java/ac/cn/saya/springcloud/study/zuul/gateway/SpringCloudStudyZuulGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="20" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-cloud-study-config/spring-cloud-client-config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-client-config/src/main/java/ac/cn/saya/springcloud/study/clientconfig/rest/ConfigClientRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-client-config/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-client-config/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-client-config/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -891,195 +963,210 @@
     <entry file="file://$PROJECT_DIR$/spring-cloud-study-eureka1/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="50" />
+          <caret line="10" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="130" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-eureka1/src/main/java/ac/cn/saya/springcloud/study/eureka1/SpringCloudStudyEureka1Application.java">
+    <entry file="file://$PROJECT_DIR$/../spring-cloud-study-config/spring-cloud-eureka-client-config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-eureka2/src/main/java/ac/cn/saya/springcloud/study/eureka2/SpringCloudStudyEureka2Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-eureka3/src/main/java/ac/cn/saya/springcloud/study/eureka3/SpringCloudStudyEureka3Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="53" column="21" lean-forward="false" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/dept1/SpringCloudStudyConsumerDept1Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="106" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="106" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="114" lean-forward="false" selection-start-line="7" selection-start-column="114" selection-end-line="7" selection-end-column="114" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/dept1/config/ConfigBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="e#602#603#0" expanded="false" />
-            <element signature="e#643#644#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/java/ac/cn/saya/springcloud/study/provider/dept2/dao/DeptDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/resources/mybatis/mapper/DeptMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="70" lean-forward="false" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
-          <folding>
-            <marker date="1548511722176" expanded="true" signature="309:371" ph="select deptn... dept" />
-            <marker date="1548511722176" expanded="true" signature="439:478" ph="select deptn... dept" />
-            <marker date="1548511722176" expanded="true" signature="549:610" ph="INSERT INTO dept... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/java/ac/cn/saya/springcloud/study/provider/dept2/service/impl/DeptServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/java/ac/cn/saya/springcloud/study/provider/dept2/service/DeptService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/java/ac/cn/saya/springcloud/study/provider/dept2/controllers/DeptController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/controllers/DeptController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="26" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/SpringCloudStudyProviderDept1Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="57" />
+        <state relative-caret-position="-47">
+          <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/java/ac/cn/saya/springcloud/study/provider/dept2/SpringCloudStudyProviderDept2Application.java">
+    <entry file="file://$PROJECT_DIR$/../spring-cloud-study-config/spring-cloud-dept-client-config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-383">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-zuul-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="75" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-config-eureka-client/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-config-eureka-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-config-eureka-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-client-config/src/main/java/ac/cn/saya/springcloud/study/clientconfig/SpringCloudStudyClientConfigApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="18" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-config-eureka-client/src/main/java/ac/cn/saya/springcloud/study/config/eureka/client/SpringCloudStudyConfigEurekaClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-config-eureka-client/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-2/pom.xml">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/java/ac/cn/saya/springcloud/study/dept/clientconfig/service/DeptService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-798">
-          <caret line="6" column="51" lean-forward="true" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        <state relative-caret-position="266">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-2/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/java/ac/cn/saya/springcloud/study/dept/clientconfig/service/impl/DeptServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="62">
+          <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/java/ac/cn/saya/springcloud/study/dept/clientconfig/dao/DeptDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/resources/mybatis/mybatis.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/resources/mybatis/mapper/DeptMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="79" lean-forward="true" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+          <folding>
+            <marker date="1549362232910" expanded="true" signature="312:374" ph="select deptn... dept" />
+            <marker date="1549362232910" expanded="true" signature="442:481" ph="select deptn... dept" />
+            <marker date="1549362232910" expanded="true" signature="552:613" ph="INSERT INTO dept... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/src/main/java/ac/cn/saya/springcloud/study/provider/dept1/SpringCloudStudyProviderDept1Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="20" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-dept-client-config/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="43" lean-forward="false" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+        <state relative-caret-position="219">
+          <caret line="102" column="51" lean-forward="true" selection-start-line="102" selection-start-column="51" selection-end-line="102" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-study-consumer-dept-1/src/main/java/ac/cn/saya/springcloud/study/consumer/dept1/controllers/OAController.java">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/java/ac/cn/saya/springcloud/study/dept/clientconfig/SpringCloudStudyDeptClientConfigApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="22" column="90" lean-forward="false" selection-start-line="22" selection-start-column="90" selection-end-line="22" selection-end-column="90" />
+        <state relative-caret-position="190">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="61" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="47" lean-forward="false" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-study-dept-client-config/src/main/java/ac/cn/saya/springcloud/study/dept/clientconfig/controllers/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1139,7 +1226,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>spring-cloud-study-provider-dept-2</last-edited>
+          <last-edited>spring-cloud-study-dept-client-config</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

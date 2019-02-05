@@ -7,23 +7,39 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-study-api" />
+        <module name="spring-cloud-study-client-config" />
+        <module name="spring-cloud-study-config" />
+        <module name="spring-cloud-study-config-eureka-client" />
         <module name="spring-cloud-study-consumer-dept-1" />
+        <module name="spring-cloud-study-consumer-dept-feign" />
+        <module name="spring-cloud-study-dept-client-config" />
         <module name="spring-cloud-study-eureka1" />
         <module name="spring-cloud-study-eureka2" />
         <module name="spring-cloud-study-eureka3" />
+        <module name="spring-cloud-study-hystrix-dashboard" />
         <module name="spring-cloud-study-provider-dept-1" />
         <module name="spring-cloud-study-provider-dept-2" />
+        <module name="spring-cloud-study-provider-dept-hystrix" />
+        <module name="spring-cloud-study-zuul-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-cloud-study" target="1.8" />
       <module name="spring-cloud-study-api" target="1.8" />
+      <module name="spring-cloud-study-client-config" target="1.8" />
+      <module name="spring-cloud-study-config" target="1.8" />
+      <module name="spring-cloud-study-config-eureka-client" target="1.8" />
       <module name="spring-cloud-study-consumer-dept-1" target="1.8" />
+      <module name="spring-cloud-study-consumer-dept-feign" target="1.8" />
+      <module name="spring-cloud-study-dept-client-config" target="1.8" />
       <module name="spring-cloud-study-eureka1" target="1.8" />
       <module name="spring-cloud-study-eureka2" target="1.8" />
       <module name="spring-cloud-study-eureka3" target="1.8" />
+      <module name="spring-cloud-study-hystrix-dashboard" target="1.8" />
       <module name="spring-cloud-study-provider-dept-1" target="1.8" />
       <module name="spring-cloud-study-provider-dept-2" target="1.8" />
+      <module name="spring-cloud-study-provider-dept-hystrix" target="1.8" />
+      <module name="spring-cloud-study-zuul-gateway" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

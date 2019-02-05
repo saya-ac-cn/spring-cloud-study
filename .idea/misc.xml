@@ -10,6 +10,14 @@
         <option value="$PROJECT_DIR$/spring-cloud-study-eureka2/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-study-eureka3/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-consumer-dept-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-provider-dept-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-zuul-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-client-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-config-eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-study-dept-client-config/pom.xml" />
       </list>
     </option>
   </component>

@@ -3,11 +3,19 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-study-client-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-study-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-study-config-eureka-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-consumer-dept-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-study-consumer-dept-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-study-dept-client-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-eureka1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-eureka2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-eureka3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-study-hystrix-dashboard" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-study-provider-dept-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-study-zuul-gateway" charset="UTF-8" />
   </component>
 </project>

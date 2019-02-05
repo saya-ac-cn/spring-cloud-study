@@ -1,1 +1,4 @@
 ac\cn\saya\springcloud\study\api\entity\DeptEntity.class
+ac\cn\saya\springcloud\study\api\service\DeptClientService.class
+ac\cn\saya\springcloud\study\api\service\DeptClientServiceFallbackFactory.class
+ac\cn\saya\springcloud\study\api\service\DeptClientServiceFallbackFactory$1.class
