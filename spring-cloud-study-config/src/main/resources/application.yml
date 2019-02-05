@@ -1,0 +1,13 @@
+server: 
+  port: 3344 
+  
+spring:
+  application:
+    name:  spring-cloud-study-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/saya-ac-cn/spring-cloud-study-config.git #GitHub上面的git仓库名字
+ 
+

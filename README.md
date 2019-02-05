@@ -1,6 +1,10 @@
 # spring-cloud-study
 ## spring-cloud 学习实践
 ### 版本节点：
+#### 1.0.8.0205(20190205)
+描述：增加spring-config配置模式
+#### 1.0.7.0129(20190129)
+描述：增加zuul-gateway
 #### 1.0.6.0128(20190128)
 描述：增加hystrix-dashboard监控。走过的坑，必须在hystrix提供者中开启@EnableCircuitBreaker//对hystrixR熔断机制的支持，并且在Controller层的方法增加@HystrixCommand(fallbackMethod = "processHystrix_Get")，切记，否则无法无法连接，一直处于ping的状态
 #### 1.0.5.0127(20190127)

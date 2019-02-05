@@ -91,6 +91,8 @@
 
     <modules>
         <module>spring-cloud-study-api</module>
+        <module>spring-cloud-study-config</module>
+        <module>spring-cloud-study-client-config</module>
         <module>spring-cloud-study-provider-dept-1</module>
         <module>spring-cloud-study-provider-dept-2</module>
         <module>spring-cloud-study-consumer-dept-1</module>
@@ -100,6 +102,8 @@
         <module>spring-cloud-study-eureka2</module>
         <module>spring-cloud-study-eureka3</module>
         <module>spring-cloud-study-provider-dept-hystrix</module>
+        <module>spring-cloud-study-config-eureka-client</module>
+        <module>spring-cloud-study-dept-client-config</module>
     </modules>
 
 </project>
